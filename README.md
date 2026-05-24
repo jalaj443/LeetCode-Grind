@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/jalaj443/LeetCode-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jalaj443/LeetCode-Grind/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/jalaj443/LeetCode-Grind/tree/master/0410-split-array-largest-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jalaj443/LeetCode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jalaj443/LeetCode-Grind/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jalaj443/LeetCode-Grind/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jalaj443/LeetCode-Grind/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jalaj443/LeetCode-Grind/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/jalaj443/LeetCode-Grind/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jalaj443/LeetCode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
